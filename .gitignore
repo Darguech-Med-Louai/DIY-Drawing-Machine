@@ -1,0 +1,12 @@
+*.zip
+*.rar
+*.exe
+*.dll
+*.lnk
+*.bmp
+*.ino
+*.pde
+Thumbs.db
+.DS_Store
+.vscode/
+__pycache__/
