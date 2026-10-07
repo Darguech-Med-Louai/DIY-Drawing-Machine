@@ -27,9 +27,10 @@ Les modèles des moteurs, du servo et du circuit de commande ne sont pas établi
 
 ![Exemple de dessin réalisé](images/drawing-machine-output.png)
 
-## Démonstration
+## Démo
 
-▶️ [Voir la démo](video/demo.mp4)
+▶️ [Voir la démo](video/demo1.mp4)
+▶️ [Voir la démo](video/demo2.mp4)
 
 ## Réglages comparés
 
